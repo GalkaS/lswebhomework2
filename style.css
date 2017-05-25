@@ -1,0 +1,133 @@
+.navbar-custom {
+	background: transparent;
+	border-bottom: 1px solid transparent;
+}
+body > header > div > div > div > h1 {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 800;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	color: white;
+	line-height: 1.1;
+	font-size: 55px;
+}
+body > header > div > div > div > h2 {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 600;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+	color: white;
+	line-height: 1.1;
+	font-size: 30px;
+}
+body > header > div > div > div > span {
+	font-family: Lora,'Times New Roman',serif;
+	font-style: italic;
+	color: white;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 1.1;
+}
+body > header {
+	background-image: url("https://images5.alphacoders.com/374/374329.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	margin-top: 0px;
+}
+/*body > article > div > div > div */
+body > article > div {
+	font-family: Lora,'Times New Roman',serif;
+	font-size: 22px;
+	line-height: 1.5;
+	color: #333;
+	margin: 60px;
+}
+p {
+	margin-top: 20px;
+}
+h2 {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 36px;
+	margin-top: 60px;
+	margin-bottom: 10px;
+	font-weight: 700;
+	line-height: 1.1;
+	color: inherit;
+}
+blockquote {
+	color: #777;
+	font-style: italic;
+	padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 19px;
+    border-left: 5px solid #eee;
+    line-height: 1.3;
+}
+body > article > div > div > div > span {
+	color: #777;
+	font-size: 16px;
+	padding: 10px;
+	font-style: italic;
+	text-align: center;
+	display: block;
+}
+/*Start bootstrap button*/
+body > nav > div > div.navbar-header.page-scroll > a {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 20px;
+	margin-left: 15px;
+	padding: 20px;
+	font-weight: 800;
+	color: white;
+}
+#bs-example-navbar-collapse-1 > ul {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	margin-right: -15px;
+	font-size: 15px;
+	font-weight: 800;
+	padding: 7px;
+}
+#bs-example-navbar-collapse-1 > ul > li:nth-child(1) > a {
+	color: white;
+}
+#bs-example-navbar-collapse-1 > ul > li:nth-child(2) > a {
+	color: white;
+}
+#bs-example-navbar-collapse-1 > ul > li:nth-child(3) > a {
+	color: white;
+}
+#bs-example-navbar-collapse-1 > ul > li:nth-child(4) > a {
+	color: white;
+}
+body > header > div > div > div > span > a {
+	color: white;
+}
+.fa {
+	font-size: 25px;
+	background-color: #333;
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	margin:70px 10px 10px 10px;
+	margin-bottom: 30px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+body > footer > div > div > div > p {
+	padding: 100px;
+	margin-left: 30px;
+}
+body > a.fa.fa-facebook {
+	display: none;
+}
+body > a.fa.fa-twitter {
+	display: none;
+}
+body > a.fa.fa-github {
+	display: none;
+}
