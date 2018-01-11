@@ -1,1 +1,1 @@
-Link to my version: https://codepen.io/LLina/pen/zpWMqL
+To see the project, go here: https://codepen.io/LLina/pen/zpWMqL
